@@ -47,4 +47,4 @@ import pickle
 #with open("database.txt",'wb') as f:
     #pickle.dump(points, f, fix_imports=True, buffer_callback=None)
 
-#use pickle is much faster then directly read laz files
+#use pickle is much faster than directly read laz files
